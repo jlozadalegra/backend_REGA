@@ -1,0 +1,1 @@
+export * from "./entities/sistema-proc-dest.entity";

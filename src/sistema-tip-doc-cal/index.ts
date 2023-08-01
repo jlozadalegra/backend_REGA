@@ -1,0 +1,1 @@
+export * from "./entities/sistema-tip-doc-cal.entity"
